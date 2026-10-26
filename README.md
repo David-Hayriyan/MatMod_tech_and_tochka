@@ -144,14 +144,14 @@ PYTHONPATH=src python3 main.py \
 
 ## Ключевые файлы
 
-- [main.py](/Users/daniil/code/mai/MatMod_tech_and_tochka/main.py)
-- [src/matmod_solution/forecasting.py](/Users/daniil/code/mai/MatMod_tech_and_tochka/src/matmod_solution/forecasting.py)
-- [src/matmod_solution/postprocess.py](/Users/daniil/code/mai/MatMod_tech_and_tochka/src/matmod_solution/postprocess.py)
-- [src/matmod_solution/scheduling.py](/Users/daniil/code/mai/MatMod_tech_and_tochka/src/matmod_solution/scheduling.py)
-- [src/matmod_solution/notebook_runtime.py](/Users/daniil/code/mai/MatMod_tech_and_tochka/src/matmod_solution/notebook_runtime.py)
-- [notebooks/training_and_eval/01_train_weather_tft_prod_calendar_8weeks.ipynb](/Users/daniil/code/mai/MatMod_tech_and_tochka/notebooks/training_and_eval/01_train_weather_tft_prod_calendar_8weeks.ipynb)
-- [notebooks/training_and_eval/02_clean_previous_runs_test_finetune_submission.ipynb](/Users/daniil/code/mai/MatMod_tech_and_tochka/notebooks/training_and_eval/02_clean_previous_runs_test_finetune_submission.ipynb)
-- [notebooks/распределение_fixed.ipynb](/Users/daniil/code/mai/MatMod_tech_and_tochka/notebooks/распределение_fixed.ipynb)
+- [main.py](./main.py)
+- [src/matmod_solution/forecasting.py](./src/matmod_solution/forecasting.py)
+- [src/matmod_solution/postprocess.py](./src/matmod_solution/postprocess.py)
+- [src/matmod_solution/scheduling.py](./src/matmod_solution/scheduling.py)
+- [src/matmod_solution/notebook_runtime.py](./src/matmod_solution/notebook_runtime.py)
+- [notebooks/training_and_eval/01_train_weather_tft_prod_calendar_8weeks.ipynb](./notebooks/training_and_eval/01_train_weather_tft_prod_calendar_8weeks.ipynb)
+- [notebooks/training_and_eval/02_clean_previous_runs_test_finetune_submission.ipynb](./notebooks/training_and_eval/02_clean_previous_runs_test_finetune_submission.ipynb)
+- [notebooks/распределение_fixed.ipynb](./notebooks/распределение_fixed.ipynb)
 
 ## Ограничения
 
